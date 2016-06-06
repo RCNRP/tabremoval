@@ -1,4 +1,5 @@
 local function removeOldTabls()
+
 if !LocalPlayer():IsAdmin() then
 local tabstoremove = {language.GetPhrase("spawnmenu.category.npcs"),
 language.GetPhrase("spawnmenu.category.entities"),
