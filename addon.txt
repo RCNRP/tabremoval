@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+        "name"              "Tab Removal"
+        "version"           "1.0"
+        "up_date"           "6/6/2016"
+        "author_name"       "Logan"
+        "author_email"      ""
+        "info"              "Removes tabs from the q menu that in most cases are not needed, such as dupes."
+        "override"          "0"
+}
