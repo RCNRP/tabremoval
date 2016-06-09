@@ -8,4 +8,4 @@ Simply put it in your "Addons" folder and restart!
 - [ ] Add editable config
 - [ ] Add an txt file with all the default tabs
 
-And posibilly more, if you have any suggestions tell me!
+And posibilly more, if you have any suggestions simply create an [Issue](https://github.com/RCNRP/tabremoval/issues/new) with the "Suggestion" label!  
